@@ -1,0 +1,17 @@
+#include<stdlib.h>
+#include<stdio.h>
+  int main()
+{
+  int n;
+  printf("enter the goals");
+  scanf("%d",&n);
+  if(n>5)
+    goto sos;
+  else
+    {printf("You will lose \n");
+    }
+    exit(1);
+ sos: 
+  printf("You will win \n");
+  return 0;
+}
