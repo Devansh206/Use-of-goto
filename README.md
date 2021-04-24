@@ -1,1 +1,1 @@
-# Use-of-goto
+# Use-of-goto keyword
